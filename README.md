@@ -3,9 +3,6 @@
 ## An interactive quiz game to illustrate the depth of global inequality 
 *Data Science for Social Good, Fall 2022*
 
-## Demo App
-[Quizality](https://quizality-app.herokuapp.com/)
-
 ## Table of Contents:
 
 [1. Research Question](#research-question)
